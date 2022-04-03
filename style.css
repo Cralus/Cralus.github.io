@@ -1,3 +1,7 @@
+nav{
+  display:flex;
+  
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -7,7 +11,6 @@ ul {
 }
 
 li a {
-  display: block;
   color: #000;
   padding: 8px 16px;
   text-decoration: none;
